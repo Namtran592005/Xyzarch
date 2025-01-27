@@ -49,7 +49,7 @@ cd xyzarch
 
 3. Chạy ứng dụng:
 ```
-xyzarch_1.0.0.exe
+chạy tệp exe
 ```
 
 ## Hướng Dẫn Sử Dụng
