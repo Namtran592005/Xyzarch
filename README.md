@@ -13,7 +13,7 @@ XyzArch là một công cụ nén file mạnh mẽ với khả năng mã hóa t�
 ### Bảo Mật
 - Nhiều phương thức mã hóa:
   - AES-256 (Tiêu chuẩn)
-  - 3DES (Quân sự Mỹ)
+  - 3DES (Cũ)
   - Blowfish (Phương thức thay thế)
   - Mã hóa Chaos tùy chỉnh
 - Đo độ mạnh mật khẩu
@@ -96,22 +96,8 @@ python xyzarch_1.0.0.exe
 - MD5: Message Digest Algorithm
 - CRC32: Cyclic Redundancy Check
 
-## Đóng Góp
-Mọi đóng góp đều được hoan nghênh! Vui lòng gửi Pull Request để đóng góp.
-
-## Giấy Phép
-Dự án này được cấp phép theo giấy phép MIT - xem file LICENSE để biết thêm chi tiết.
-
 ## Nhà Phát Triển
 Phát triển bởi Namtran5905
-
-## Lời Cảm Ơn
-- CustomTkinter cho các thành phần giao diện hiện đại
-- PyCryptodome cho các thuật toán mã hóa
-- Cộng đồng Python cho các thư viện được sử dụng
-
-## Hỗ Trợ
-Để được hỗ trợ, vui lòng tạo issue trong repository GitHub hoặc liên hệ với nhà phát triển.
 
 ## Lịch Sử Cập Nhật
 ### Phiên Bản 1.0.0
