@@ -49,7 +49,7 @@ cd xyzarch
 
 3. Chạy ứng dụng:
 ```
-python xyzarch_1.0.0.exe
+xyzarch_1.0.0.exe
 ```
 
 ## Hướng Dẫn Sử Dụng
