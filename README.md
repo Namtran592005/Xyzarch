@@ -1,4 +1,4 @@
-# XyzArch Compressor
+# XyzArch
 
 XyzArch là một công cụ nén file mạnh mẽ với khả năng mã hóa tích hợp. Phần mềm cung cấp giao diện người dùng thân thiện để nén, mã hóa và quản lý file với nhiều phương thức mã hóa và tùy chọn xác minh hash.
 
