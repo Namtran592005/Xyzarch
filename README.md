@@ -75,7 +75,7 @@ Xyzarch_1.0.0.exe
 - **AES-256**: Mã hóa tiêu chuẩn công nghiệp
 - **3DES**: Mã hóa Triple DES
 - **Blowfish**: Thuật toán mã hóa thay thế
-- **Chaos**: Triển khai mã hóa dựa trên lý thuyết hỗn độn
+- **Chaos**: Triển khai mã hóa dựa trên lý thuyết hỗn loạn
 
 ### Bảo Mật Mật Khẩu
 - Đo độ mạnh với chỉ số trực quan
