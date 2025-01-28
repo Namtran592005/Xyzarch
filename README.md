@@ -15,7 +15,7 @@ XyzArch là một công cụ nén file mạnh mẽ với khả năng mã hóa t�
   - AES-256 (Tiêu chuẩn)
   - 3DES (Cũ)
   - Blowfish (Phương thức thay thế)
-  - Mã hóa Chaos tùy chỉnh
+  - Mã hóa Chaos tùy chỉnh (thử nghiệm)
 - Đo độ mạnh mật khẩu
 - Tạo mật khẩu mạnh tự động
 - Tạo mã hash tùy chọn (SHA1, MD5, CRC32)
@@ -75,7 +75,7 @@ Xyzarch_1.0.0.exe
 - **AES-256**: Mã hóa tiêu chuẩn công nghiệp
 - **3DES**: Mã hóa Triple DES
 - **Blowfish**: Thuật toán mã hóa thay thế
-- **Chaos**: Triển khai mã hóa dựa trên lý thuyết hỗn loạn
+- **Chaos**: Triển khai mã hóa dựa trên lý thuyết hỗn loạn (thử nghiệm)
 
 ### Bảo Mật Mật Khẩu
 - Đo độ mạnh với chỉ số trực quan
@@ -95,9 +95,6 @@ Xyzarch_1.0.0.exe
 - SHA1: Secure Hash Algorithm 1
 - MD5: Message Digest Algorithm
 - CRC32: Cyclic Redundancy Check
-
-## Nhà Phát Triển
-Phát triển bởi Namtran5905
 
 ## Lịch Sử Cập Nhật
 ### Phiên Bản 1.0.0
