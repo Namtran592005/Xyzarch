@@ -15,7 +15,6 @@ XyzArch là một công cụ nén file mạnh mẽ với khả năng mã hóa t�
   - AES-256 (Tiêu chuẩn)
   - 3DES (Cũ)
   - Blowfish (Phương thức thay thế)
-  - Mã hóa Chaos tùy chỉnh (thử nghiệm)
 - Đo độ mạnh mật khẩu
 - Tạo mật khẩu mạnh tự động
 - Tạo mã hash tùy chọn (SHA1, MD5, CRC32)
